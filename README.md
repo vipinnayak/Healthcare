@@ -15,11 +15,7 @@ build\contracts
 contracts/
 └── HealthcareSystem.sol
 migrations/
-└── 1_deploy_contracts.js
-test/
-└── (optional)
-scripts/
-└── (optional console scripts)
+└── 4_deploy_health.js
 README.md
 truffle-config.js
 
